@@ -44,7 +44,7 @@ The endpoint configuration for server mode will depend on a HTTP port available 
 
 ## Collect and manipulating WITSML data in Live 
 
-* [Backlog Syncronization](witsml/backlog-sync/README.md)
+* [Backlog Syncronization](../../collector/remote-control/sources/witsml-backlog-sync.md)
     * [Mnemonic Standardization](witsml/object-explorer/standardization.md)
 * [Object Explorer](witsml/object-explorer/README.md)
 * [Requests](witsml/requests/README.md)

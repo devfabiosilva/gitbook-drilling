@@ -38,6 +38,11 @@ A new request will be created and the interface will show the progress of each r
 
 ![List of requests with progress](../../../.gitbook/assets/backlog-sync-06.png)
 
+
+## Mnemonic Standardizatio
+
+TODO
+
 ## Troubleshooting
 
 ### Stopping a Backlog Sync Request
